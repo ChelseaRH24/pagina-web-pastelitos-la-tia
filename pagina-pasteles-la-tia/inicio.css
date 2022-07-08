@@ -1,0 +1,13 @@
+.carousel-inner{
+    max-height: 38rem;
+}
+
+@media (max-width: 768px) {
+    #intro{
+        width: 90% !important;
+    }
+}
+
+.icon {
+    border-radius: 50%;
+}

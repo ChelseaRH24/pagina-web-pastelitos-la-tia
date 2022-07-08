@@ -1,0 +1,34 @@
+#local {
+    margin-top:50px;
+    background-color: #f3f3f3;
+    display:flex;
+    justify-content: center; 
+    padding-bottom: 300px; 
+}
+
+
+.wrapper-local {
+    width:50%;
+    margin-left:100px;
+    padding-top:150px;
+}
+
+#img-equipo{
+    max-height:30rem !important;
+    width:50%;
+}
+#img-mapis{
+    max-height:20rem !important;
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
